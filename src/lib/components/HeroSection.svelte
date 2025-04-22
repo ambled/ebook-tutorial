@@ -1,6 +1,7 @@
 <script>
   import bookCover from "$assets/book_cover.png";
   import phoneCover from "$assets/phone_cover.png";
+  import { Button } from "$components";
 </script>
 <section class="hero">
   <div class="hero-showcase text-center bold">
@@ -16,12 +17,13 @@
     <h1>THIS EBOOK WILL</h1>
     <h1>SAVE YOU MONEY,</h1>
     <h1 class="mb-m">TIME AND NERVES</h1>
-    <p class="light-grey">
+    <p class="light-grey mb-l">
       I moved to Spain seven years ago.  The process was painful and diffcult. I learned
       most things the hard way: finding a job, getting a visa,
       caluclation my cost of living, choosing and apartment. Thats why I wrote 
       this e-book, to tell you how I did it. No bullshit, no stress.
     </p>
+    <Button>Purchase E-book for $10</Button>
   </div>
 
 </section>
