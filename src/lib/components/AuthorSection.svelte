@@ -2,8 +2,8 @@
   import authorpic from "$assets/profile_pic.jpg";
 </script>
 
-<section class="author-section">
-  <h2 class="mb-1">About the author</h2>
+<section class="landing-page-section">
+  <h2 class="mb-l">About the author</h2>
   <div class="author-container">
     <div class="author-text">
       <p class="mb-xs">

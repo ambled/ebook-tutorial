@@ -40,7 +40,7 @@ function selectChapter(chapter) {
   selectedChapterNumber = chapter.number;
 }
 </script>
-<section class="chapter-preview default-margin">
+<section class="landing-page-section">
   <h2 class="mb-l">What you're getting</h2>
   <div class="chapter-container">
     <ul>
