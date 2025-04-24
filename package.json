@@ -1,6 +1,6 @@
 {
   "name": "start",
-  "engines": { 
+  "engines": {
     "node": "20.x"
   },
   "version": "0.0.1",
@@ -23,6 +23,7 @@
   },
   "type": "module",
   "dependencies": {
+    "@sendgrid/mail": "^8.1.5",
     "@stripe/stripe-js": "^7.2.0",
     "stripe": "^18.0.0"
   }
