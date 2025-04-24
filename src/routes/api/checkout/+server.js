@@ -22,4 +22,5 @@ export async function POST() {
         return json({sessionId: session.id});
     } catch (error) {
         return json({ error }, { status: 500 });
+    }
 }
